@@ -1477,7 +1477,6 @@ dependencies = [
  "serde",
  "serde_json",
  "settings",
- "sha256",
  "testcontainers",
  "thiserror 2.0.16",
  "tokio",
@@ -3976,7 +3975,6 @@ dependencies = [
  "serde",
  "serde_json",
  "settings",
- "sha256",
  "tracing",
 ]
 
@@ -6351,7 +6349,6 @@ dependencies = [
  "moka",
  "object_store",
  "settings",
- "sha256",
  "testcontainers",
  "thiserror 2.0.16",
  "tokio",
